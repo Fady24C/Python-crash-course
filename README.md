@@ -1,123 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Crash Course</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        code {
-            background: #eee;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        pre {
-            background: #222;
-            color: #fff;
-            padding: 15px;
-            border-radius: 10px;
-            overflow-x: auto;
-        }
-        .container {
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .badge {
-            display: inline-block;
-            padding: 5px 10px;
-            background: #3498db;
-            color: white;
-            border-radius: 5px;
-            font-size: 12px;
-        }
-    </style>
-</head>
-<body>
+## Hey 👋, I'm Fady Romany
 
-<div class="container">
+<a href='https://github.com/your-username'><img align='left' alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height='18px'/></a>
 
-    <h1>🐍 Python Crash Course</h1>
-    <p class="badge">Beginner Friendly</p>
+<br/>
 
-    <p>
-        A beginner-friendly repository to learn Python quickly and effectively.
-        This repo covers the fundamentals of Python programming with simple explanations,
-        examples, and practice exercises.
-    </p>
+🎓 Computer Science Student  
+💻 Aspiring Software Engineer | Problem Solver  
+🎨 Learning Graphic Design + Programming  
 
-    <h2>📌 Overview</h2>
-    <ul>
-        <li>Beginners starting with Python</li>
-        <li>Computer science students</li>
-        <li>Quick revision for Python basics</li>
-    </ul>
+---
 
-    <h2>🚀 Topics Covered</h2>
-    <ul>
-        <li>Introduction to Python</li>
-        <li>Variables & Data Types</li>
-        <li>Input / Output</li>
-        <li>Operators</li>
-        <li>Conditional Statements</li>
-        <li>Loops</li>
-        <li>Functions</li>
-        <li>Data Structures (Lists, Tuples, Sets, Dictionaries)</li>
-        <li>String Manipulation</li>
-        <li>Problem Solving</li>
-    </ul>
+## 🚀 About Me
 
-    <h3>1. Clone the repository</h3>
-    <pre>git clone https://github.com/your-username/python-crash-course.git</pre>
+I’m a passionate learner exploring different fields in tech.  
+Currently focused on building strong foundations in **Python, problem solving, and software development**.
 
-    <h3>2. Navigate to the folder</h3>
-    <pre>cd python-crash-course</pre>
+- 🔭 I’m currently working on **Python Crash Course Repo**
+- 🌱 I’m currently learning **Data Structures & Algorithms + Machine Learning**
+- 👨‍💻 I solve problems on **Codewars / LeetCode**
+- 🎯 Goal: Become a strong **Software Engineer + AI Developer**
+- 💬 Ask me about **Python, C++, Problem Solving**
+- ⚡ Fun fact: I love turning ideas into real projects
 
-    <h3>3. Run Python file</h3>
-    <pre>python filename.py</pre>
+---
 
-    <h2>🧠 How to Use</h2>
-    <ul>
-        <li>Start from the basics folder</li>
-        <li>Move step-by-step</li>
-        <li>Practice exercises</li>
-        <li>Modify code to understand better</li>
-    </ul>
+## 🧠 Languages & Tools
 
-    <h2>🎯 For Arabic Speakers</h2>
-    <ul>
-        <li>تعلم أساسيات بايثون بسرعة</li>
-        <li>فهم المنطق البرمجي</li>
-        <li>الاستعداد لحل المسائل</li>
-    </ul>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,git,github" />
+</p>
 
-    <h2>🤝 Contributing</h2>
-    <ol>
-        <li>Fork the repository</li>
-        <li>Create a new branch</li>
-        <li>Make your changes</li>
-        <li>Submit a Pull Request</li>
-    </ol>
+---
 
-    <h2>📜 License</h2>
-    <p>MIT License - Free to use and modify.</p>
+## 📊 GitHub Stats
 
-    <h2>⭐ Support</h2>
-    <p>If you found this helpful, please star the repository ⭐</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
 
-</div>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
 
-</body>
-</html>
+---
+
+## 🛠️ My Projects
+
+### 🐍 Python Crash Course
+A beginner-friendly repo to learn Python step-by-step.
+
+🔗 https://github.com/your-username/python-crash-course
+
+---
+
+### 💡 More Coming Soon...
+- Problem Solving Solutions
+- Mini Projects
+- Web Apps
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/your-username
+
+---
+
+⭐ If you like my work, consider giving a star!
