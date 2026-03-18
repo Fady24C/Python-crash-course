@@ -1,69 +1,30 @@
-## Hey 👋, I'm Fady Romany
+<h1 align="center">Hi, I'm Fady Romany👋</h1>
+<h3 align="center">Computer Science Student 💻 | Problem Solver 🧠 | Future Software Engineer 🚀</h3>
 
-<a href='https://github.com/your-username'><img align='left' alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height='18px'/></a>
-
-<br/>
-
-🎓 Computer Science Student  
-💻 Aspiring Software Engineer | Problem Solver  
-🎨 Learning Graphic Design + Programming  
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-MAX%20Fady-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 ## 🚀 About Me
 
-I’m a passionate learner exploring different fields in tech.  
-Currently focused on building strong foundations in **Python, problem solving, and software development**.
-
-- 🔭 I’m currently working on **Python Crash Course Repo**
-- 🌱 I’m currently learning **Data Structures & Algorithms + Machine Learning**
-- 👨‍💻 I solve problems on **Codewars / LeetCode**
-- 🎯 Goal: Become a strong **Software Engineer + AI Developer**
-- 💬 Ask me about **Python, C++, Problem Solving**
-- ⚡ Fun fact: I love turning ideas into real projects
-
----
-
-## 🧠 Languages & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🛠️ My Projects
-
-### 🐍 Python Crash Course
-A beginner-friendly repo to learn Python step-by-step.
-
-🔗 https://github.com/your-username/python-crash-course
-
----
-
-### 💡 More Coming Soon...
-- Problem Solving Solutions
-- Mini Projects
-- Web Apps
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/your-username
-
----
-
-⭐ If you like my work, consider giving a star!
+```cpp
+class MAXFady {
+public:
+    string role = "CS Student & Future Software Engineer";
+    string focus = "Problem Solving & Machine Learning";
+    
+    vector<string> skills = {
+        "Python",
+        "C++",
+        "Machine Learning",
+        "Data Structures & Algorithms",
+        "Problem Solving",
+        "Basic Web Development"
+    };
+};
