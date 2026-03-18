@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fady Romany👋</h1>
-<h3 align="center">Computer Science Student 💻 | Problem Solver 🧠 | Future Software Engineer 🚀</h3>
+<h3 align="center">Computer Science Student 💻 | Problem Solver 🧠 | Future AI Engineer 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/your-username">
